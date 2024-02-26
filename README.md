@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Dennis!
-- 👀 I’m interested in Web development and game development.
-- 🌱 I’m currently learning Python and JS
-- 📫 Hit me up on Twitter @danthedev4 to reach me!
+Currently working on web and game development. 
+
+Connect with me! https://www.linkedin.com/in/dcejvan/
 
 <!---
 dcejvan/dcejvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
