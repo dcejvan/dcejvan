@@ -1,5 +1,6 @@
-Sophomore at the University of Iowa majoring in Computer Science.
-Currently working on my 3D interactive portfolio website. Check out the repo!
+Sophomore at the **University of Iowa** majoring in Computer Science.
+<br>
+Currently working on my **3D interactive portfolio website**. Check out the repo!
 
 Connect with me! https://www.linkedin.com/in/dcejvan/
 
