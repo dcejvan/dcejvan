@@ -1,4 +1,4 @@
-Sophomore at the **University of Iowa** majoring in Computer Science.
+Junior at the **University of Iowa** majoring in Computer Science.
 <br>
 Currently working on my **3D interactive portfolio website**. Check out the repo!
 
