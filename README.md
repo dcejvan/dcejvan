@@ -1,6 +1,6 @@
-Junior at the **University of Iowa** majoring in Computer Science.
+Junior at the **University of Iowa**, majoring in Computer Science.
 <br>
-Currently working on my **3D interactive portfolio website**. Check out the repo!
+Currently working on a full-stack E-commerce solution utilizing React, Express, and MongoDB.
 
 Connect with me! https://www.linkedin.com/in/dcejvan/
 
