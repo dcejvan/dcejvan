@@ -1,4 +1,5 @@
-Junior at the **University of Iowa**, majoring in Computer Science.
+I'm Dennis!
+I'm a Junior at the **University of Iowa**, majoring in Computer Science.
 <br>
 Currently working on a full-stack E-commerce solution utilizing React, Express, and MongoDB.
 
